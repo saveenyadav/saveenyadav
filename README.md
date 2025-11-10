@@ -1,14 +1,7 @@
-## Hello!! 👋
-#Introduction
-- I am Saveen Yadav.
-- 🔭 I am currently working on Github.
-- 🌱 I am learning Web Development.
-- 👯 I’m looking to collaborate with my team members.
-- 🤔 I’m looking for help with Github usage.
-- 💬 Ask me about HTML and CSS
-- 📫 How to reach me: through slack
-- 😄 Pronouns: Savu:)
-
+👋 Hi, I’m Saveen Yadav, a Web Developer passionate about building responsive, user-friendly websites.
+🌱 Currently improving my skills in React, Node.js, and MongoDB.
+💼 Open to junior developer or internship opportunities.
+📫 Reach me at saveenyadav28@gmail.com | https://www.linkedin.com/in/saveen-yadav
 
 
  
